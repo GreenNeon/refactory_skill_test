@@ -1,0 +1,6 @@
+NODE_ENV=development
+PORT=3000
+CLIENT_ID=5db0df093fdfed69affd 
+CLIENT_SECRET=754f9206338702cf4b04da166f40b725c52267a4
+OAUTH_URL=https://github.com/login/oauth
+API_URL=https://api.github.com
